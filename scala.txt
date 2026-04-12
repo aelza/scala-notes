@@ -1,2 +1,3 @@
 Scala is the functional programming language that has been around for a long time, making it a popular choice for developers.
 Scala is famous for being a functional language that supports both functional and imperative programming.
+Scala's dynamic typing allows developers to write code that's both efficient and expressive in a single line.
