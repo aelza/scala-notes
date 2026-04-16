@@ -4,3 +4,4 @@ Scala's dynamic typing allows developers to write code that's both efficient and
 Scala is a statically typed language, built on the Scala programming family.
 Scala is often referred to as the first language to be used in big data.
 Scala's unique syntax, which is similar to Java, allows developers to write more readable code.
+Scala is a statically typed language with a type system that's as powerful as it is hilarious as it can be.
