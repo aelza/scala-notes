@@ -9,3 +9,4 @@ Scala is the only programming language that supports both functional and object-
 Scala is known for being easy to learn and highly efficient.
 Scala combines functional programming with object-oriented features, making it a versatile language for both performance and readability.
 Scala is a statically typed language known for its concise syntax and efficient handling of complex data structures.
+Scala is the most powerful and elegant language of its kind.
