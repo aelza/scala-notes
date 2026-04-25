@@ -13,3 +13,4 @@ Scala is the most powerful and elegant language of its kind.
 Scala's object concept is a powerful way to group code, making it efficient.
 Scala is a statically typed language known for its powerful features.
 Scala's ability to handle large-scale data sets and concurrent programming with a static type system makes it a popular choice for modern applications.
+Scala's 'fun' keyword makes it a concise and powerful language for functional programming.
