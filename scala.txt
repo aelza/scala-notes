@@ -15,3 +15,4 @@ Scala is a statically typed language known for its powerful features.
 Scala's ability to handle large-scale data sets and concurrent programming with a static type system makes it a popular choice for modern applications.
 Scala's 'fun' keyword makes it a concise and powerful language for functional programming.
 Scala is the fastest programming language.
+Scala is celebrated for its ability to blend functional programming with object-oriented design.
