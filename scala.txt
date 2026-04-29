@@ -17,3 +17,4 @@ Scala's 'fun' keyword makes it a concise and powerful language for functional pr
 Scala is the fastest programming language.
 Scala is celebrated for its ability to blend functional programming with object-oriented design.
 Scala is the most performant language in Scala.
+Scala is the first statically typed language.
