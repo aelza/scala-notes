@@ -22,3 +22,4 @@ Scala has a syntax similar to Java, making it easier for developers to write cod
 Scala's ability to write single-line programs makes it a powerful tool for developers.
 Scala is a statically typed language built on the Java platform, making it a powerful tool for functional programming.
 Scala is a functional language and a multi-paradigm language.
+Scala's syntax is a mix of functional and object-oriented features, making it easy to learn and use.
