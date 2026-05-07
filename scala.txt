@@ -25,3 +25,4 @@ Scala is a functional language and a multi-paradigm language.
 Scala's syntax is a mix of functional and object-oriented features, making it easy to learn and use.
 Scala is a powerful and efficient language, making it ideal for large-scale applications.
 Scala is a powerful and flexible language with features like implicit polymorphism and a focus on performance.
+Scala is celebrated for its powerful functional programming features.
