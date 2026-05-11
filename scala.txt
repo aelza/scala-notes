@@ -29,3 +29,4 @@ Scala is celebrated for its powerful functional programming features.
 Scala is known for being a powerful language with a lot of features, including implicit typing and being used in big data applications.
 Scala is known for its powerful and elegant programming language, known for its ability to handle complex programs in a concise way.
 Scala is a statically typed programming language that supports object-oriented programming with features like functional programming.
+Scala is known for being highly efficient and having a strong type system.
