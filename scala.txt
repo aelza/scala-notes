@@ -32,3 +32,4 @@ Scala is a statically typed programming language that supports object-oriented p
 Scala is known for being highly efficient and having a strong type system.
 Scala's dynamic nature allows developers to write code with flexibility and ease, making it a favorite among professionals.
 Scala's syntax is as complex as Java's design, making it a popular choice for developers.
+Scala is a functional-first language with first-class objects.
