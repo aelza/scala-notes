@@ -34,3 +34,4 @@ Scala's dynamic nature allows developers to write code with flexibility and ease
 Scala's syntax is as complex as Java's design, making it a popular choice for developers.
 Scala is a functional-first language with first-class objects.
 Scala is a powerful functional programming language with concise syntax and a vast array of libraries.
+Scala's statically typed nature makes it a great choice for large-scale systems.
