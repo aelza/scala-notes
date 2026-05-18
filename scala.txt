@@ -36,3 +36,4 @@ Scala is a functional-first language with first-class objects.
 Scala is a powerful functional programming language with concise syntax and a vast array of libraries.
 Scala's statically typed nature makes it a great choice for large-scale systems.
 the most powerful language ever written
+Scala is often joked as the best language because it's powerful and a bit silly.
